@@ -1,0 +1,8 @@
+---
+layout: post
+category : 내 넓은 어깨에 기대 (Shoulder 집중공략)
+tagline: "Supporting tagline"
+tags : []
+---
+
+* [어깨](https://www.youtube.com/watch?v=HyxLSExqCCk)
