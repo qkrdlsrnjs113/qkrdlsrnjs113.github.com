@@ -5,4 +5,11 @@ header: 실험
 group: navigation
 ---
 
-[바이오리듬](http://qkrdlsrnjs113.github.io/lessons/2015/05/31/Bio%20Rhythm/)
+---
+layout: post
+category : Arm
+tagline: "Supporting tagline"
+tags : []
+---
+
+* [이두컬](https://www.youtube.com/watch?v=ja54GNbcxaQ)
