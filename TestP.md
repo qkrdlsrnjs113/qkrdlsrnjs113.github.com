@@ -21,5 +21,16 @@ Diet & Food (영양 정보)
 
 * [식품의약품안전처](http://www.foodnara.go.kr/kisna/index.do;jsessionid=6EKouJ6b7FK3aZFHoA2ZaGi9VwF9mtDWj7s0f8sUPCeTViO66kPIjucUlrzlsFOY)
 * [다이어트 파워 블로그](http://post.naver.com/my/series/detail.nhn?seriesNo=36347&memberNo=4986418)
+* [보충제 탐구](http://superpump.co.kr/supplement_Study)
 
 ---
+
+---
+
+
+Training Diary (운동 일지)
+
+* [유명선수 운동일지](http://superpump.co.kr/training_athletediary)
+
+---
+
