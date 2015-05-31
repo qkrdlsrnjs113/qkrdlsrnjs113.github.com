@@ -1,7 +1,8 @@
 ---
 layout: post
-category : Training for part
-tagline: "Supporting tagline"
+title : 팔
+category : [Training for part]
+tagline: 
 ---
 
-park in kwon
+* [이두컬](https://www.youtube.com/watch?v=ja54GNbcxaQ)
