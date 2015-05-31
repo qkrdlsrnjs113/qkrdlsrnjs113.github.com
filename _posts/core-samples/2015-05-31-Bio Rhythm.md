@@ -1,3 +1,10 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+
 <div id="ContentsLayer">
 	<TABLE border=0 cellSpacing=0 cellPadding=0 width=571>
 <TBODY>
