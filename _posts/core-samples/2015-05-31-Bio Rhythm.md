@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Supporting tagline"
-tags : [intro, jekyll, tutorial]
+tags : [intro]
 ---
 
 ■ 적절한 수면은 건강유지 비결
