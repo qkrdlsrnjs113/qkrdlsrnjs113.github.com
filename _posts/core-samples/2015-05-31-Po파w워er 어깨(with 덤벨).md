@@ -5,4 +5,4 @@ tagline: "Supporting tagline"
 tags : []
 ---
 
-* [어깨](https://www.youtube.com/watch?v=HyxLSExqCCk)
+* [Po파w워er 어깨(with 덤벨)](https://www.youtube.com/watch?v=HyxLSExqCCk)
