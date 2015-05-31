@@ -27,7 +27,7 @@ Diet & Food (영양 정보)
 
 Training Diary (운동 일지)
 
-* [유명선수 운동일지](http://superpump.co.kr/training_athletediary)
+* [유명선수 운동일지(보디빌더&피트니스모델)](http://superpump.co.kr/training_athletediary)
 
 ---
 
