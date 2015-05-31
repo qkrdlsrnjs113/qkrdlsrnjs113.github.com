@@ -1,0 +1,21 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
+
+실험
+
+
+{% capture text %}...
+<body>
+  <div id="sidebar"> ... </div>
+  <div id="main">
+    |.{content}.|
+  </div>
+</body>
+...{% endcapture %}
+{% include JB/liquid_raw %}
+
