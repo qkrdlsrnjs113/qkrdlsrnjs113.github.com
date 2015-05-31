@@ -30,6 +30,7 @@ Diet & Food (영양 정보)
 Refer to Training (운동 일지, 갤러리)
 
 * [유명선수 운동일지(보디빌더&피트니스모델)](http://superpump.co.kr/training_athletediary)
+* [일반인 운동일지(국내 최대 커뮤니티)](http://www.monsterzym.com/plan)
 * [유명선수 갤러리(보디빌더&피트니스모델)](http://superpump.co.kr/gallery_korean)
 
 ---
