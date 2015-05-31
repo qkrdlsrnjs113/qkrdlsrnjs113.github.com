@@ -8,6 +8,7 @@ group: navigation
 유용하게 쓰시길 바랍니다 !
 
 ---
+
 Motivation (운동 자극 영상)
 
 * [황철순(징맨) 운동영상](https://www.youtube.com/user/chulsoonofficial/videos)
@@ -16,7 +17,6 @@ Motivation (운동 자극 영상)
 
 ---
 
-
 Diet & Food (영양 정보)
 
 * [식품의약품안전처](http://www.foodnara.go.kr/kisna/index.do;jsessionid=6EKouJ6b7FK3aZFHoA2ZaGi9VwF9mtDWj7s0f8sUPCeTViO66kPIjucUlrzlsFOY)
@@ -24,9 +24,6 @@ Diet & Food (영양 정보)
 * [보충제 탐구](http://superpump.co.kr/supplement_Study)
 
 ---
-
----
-
 
 Training Diary (운동 일지)
 
